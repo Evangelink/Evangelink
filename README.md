@@ -49,8 +49,8 @@ I believe technology is a force for global good and human scalability.
 </p>
 
 <p align="center">
-  <a href="https://github.com/Evangelink?tab=repositories"><img src="https://img.shields.io/github/stars/Evangelink?style=social" /></a>
-  <a href="https://github.com/Evangelink"><img src="https://img.shields.io/github/followers/Evangelink?style=social" /></a>
+  <img src="https://evangelink-github-readme-stats.vercel.app/api?username=Evangelink&show_icons=true&theme=visual_studio_code&hide_border=true&count_private=true&include_all_commits=true&v=3" height="180" />
+  <img src="https://evangelink-github-readme-stats.vercel.app/api/top-langs/?username=Evangelink&layout=compact&theme=visual_studio_code&hide_border=true&langs_count=6&v=3" height="180" />
 </p>
 
 ---
