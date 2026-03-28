@@ -43,8 +43,14 @@ I believe technology is a force for global good and human scalability.
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Evangelink&show_icons=true&theme=visual_studio_code&hide_border=true&include_all_commits=true&count_private=true" alt="Evangelink's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evangelink&layout=compact&theme=visual_studio_code&hide_border=true&langs_count=6" alt="Most Used Languages" height="180" />
+  <img src="https://img.shields.io/badge/Main_Stack-C%23_/_%20.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Expertise-Roslyn_/_Testing-0078D4?style=for-the-badge&logo=visual-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Role-Principal_SWE-FF4500?style=for-the-badge&logo=microsoft&logoColor=white" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Evangelink?tab=repositories"><img src="https://img.shields.io/github/stars/Evangelink?style=social" /></a>
+  <a href="https://github.com/Evangelink"><img src="https://img.shields.io/github/followers/Evangelink?style=social" /></a>
 </p>
 
 ---
@@ -59,6 +65,6 @@ While my primary mission is at Microsoft, I partner with select organizations to
 * **🛡️ Governance & Static Analysis:** Building custom Roslyn-based diagnostics and advising on AI risk mitigation.
 * **📈 Engineering Ramping:** Workshops for leadership on transitioning to an AI-augmented engineering mindset.
 
-[📩 Inquire about Advisory Services](mailto:amaury.leve@gmail.com) | [Connect on LinkedIn](https://www.linkedin.com/in/amauryleve)
+[📩 Inquire about Advisory Services](mailto:amaury.leve@gmail.com) | [Connect on LinkedIn](https://www.linkedin.com/in/amaury-leve)
 
 > *"Quality is not an act, it is a habit—especially when the code is written by an AI."*
