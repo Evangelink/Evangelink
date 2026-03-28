@@ -48,7 +48,8 @@ I believe technology is a force for global good and human scalability.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Evangelink&theme=visual_studio_code&hide_border=true" height="180" alt="GitHub Streak Stats" />
+  <img src="https://evangelink-github-readme-stats.vercel.app/api?username=Evangelink&show_icons=true&theme=default&bg_color=ffffff&title_color=0078D4&icon_color=FF4500&text_color=24292e&hide_border=true&hide=stars,issues&count_private=true&include_all_commits=true&hide_rank=true" height="175" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Evangelink&theme=borderless&hide_border=true&stroke=0078D4&ring=FF4500&fire=FF4500&currStreakNum=0078D4&sideNums=0078D4&currStreakLabel=0078D4&sideLabels=24292e&dates=24292e" height="175" />
 </p>
 
 <p align="center">
