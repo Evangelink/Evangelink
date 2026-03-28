@@ -31,22 +31,30 @@ I maintain the "Safety Net" of the .NET world.
 I believe technology is a force for global good and human scalability.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GMI_MENTOR-GLOBAL_MENTORSHIP_INITIATIVE-228B22?style=for-the-badge" height="25" />
-  <img src="https://img.shields.io/badge/MS_AI_CHANGE_AGENT-MICROSOFT-FF4500?style=for-the-badge" height="25" />
-  <img src="https://img.shields.io/badge/MS_AI_NONPROFIT_ADVISOR-USAGE_POLICY-0078D4?style=for-the-badge" height="25" />
-  <img src="https://img.shields.io/badge/MS_AI_NONPROFIT_ADVISOR-FUNDING_STRATEGY-D2691E?style=for-the-badge" height="25" />
-  <img src="https://img.shields.io/badge/MS_AI_NONPROFIT_ADVISOR-VOLUNTEER_MGMT-6F42C1?style=for-the-badge" height="25" />
+  <img src="https://img.shields.io/badge/Role-Principal_SWE-FF4500?style=for-the-badge&logo=microsoft&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Main_Stack-C%23_/_%20.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Expertise-Roslyn_/_Testing-0078D4?style=for-the-badge&logo=visual-studio&logoColor=white" height="28" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MAIN_STACK-C%23_/_%20.NET-512BD4?style=for-the-badge" height="25" />
-  <img src="https://img.shields.io/badge/EXPERTISE-ROSLYN_/_TESTING-0078D4?style=for-the-badge" height="25" />
-  <img src="https://img.shields.io/badge/ROLE-PRINCIPAL_SWE-FF4500?style=for-the-badge" height="25" />
+  <img src="https://img.shields.io/badge/MICROSOFT-CHANGE_AGENT-0078D4?style=for-the-badge&logo=microsoft" height="25" />
+  <img src="https://img.shields.io/badge/GMI-GLOBAL_MENTOR-228B22?style=for-the-badge&logo=googlescholar&logoColor=white" height="25" />
 </p>
 
 <p align="center">
-  <img src="https://evangelink-github-readme-stats.vercel.app/api?username=Evangelink&show_icons=true&theme=visual_studio_code&hide_border=true&count_private=true&v=LIVE_NOW" height="180" />
-  <img src="https://evangelink-github-readme-stats.vercel.app/api/top-langs/?username=Evangelink&layout=compact&theme=visual_studio_code&hide_border=true&langs_count=6&v=LIVE_NOW" height="180" />
+  <img src="https://img.shields.io/badge/ADVISOR-AI_USAGE_POLICY-0078D4?style=for-the-badge" height="25" />
+  <img src="https://img.shields.io/badge/ADVISOR-FUNDING_STRATEGY-D2691E?style=for-the-badge" height="25" />
+  <img src="https://img.shields.io/badge/ADVISOR-VOLUNTEER_TECH-6F42C1?style=for-the-badge" height="25" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Evangelink&theme=visual_studio_code&hide_border=true" height="180" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Annual_Commits-1.3k+-512BD4?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Total_PRs-2.7k+-0078D4?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Total_Stars-5-FF4500?style=flat-square&logo=github" />
 </p>
 
 ---
